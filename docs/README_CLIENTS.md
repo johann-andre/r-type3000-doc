@@ -121,4 +121,4 @@ Exemple :
 
 ## 📜 Licence
 
-Projet académique — utilisation libre à des fins pédagogiques.
+Projet académique — utilisation libre à des fins pédagogiques
